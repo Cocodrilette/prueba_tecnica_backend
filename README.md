@@ -62,29 +62,18 @@ Debe validar:
 - employee1 cumple restricciones para ese turno
 - El intercambio no viola ninguna regla
 
-### Parte 4: Tests (20 minutos)
-Escribe al menos 3 tests en `test_scheduler.py`:
-
-1. Caso básico exitoso
-2. Restricción de horas máximas
-3. Conflicto de horarios o días no disponibles
-
 ## Cómo ejecutar
 
 ```bash
 # Ejecutar tests
 python test_scheduler.py
-
-# Ver ejemplo de uso
-python examples.py
 ```
 
 ## Criterios de evaluación
 
 - **Lógica (40%)**: Algoritmo funciona correctamente, maneja casos básicos
-- **Código (30%)**: Legibilidad, estructura, buenas prácticas
-- **Validaciones (20%)**: Verifica restricciones, manejo de errores
-- **Tests (10%)**: Cobertura de casos críticos
+- **Código (35%)**: Legibilidad, estructura, buenas prácticas
+- **Validaciones (25%)**: Verifica restricciones, manejo de errores
 
 ## Notas importantes
 
