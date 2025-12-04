@@ -9,7 +9,7 @@ Necesitas implementar un sistema que asigne turnos de trabajo a empleados consid
 ## Estructura del proyecto
 ```
 shift_scheduler/
-├── README.md           (este archivo)
+├── README.md          (este archivo)
 ├── models.py          (clases base - COMPLETAR)
 ├── scheduler.py       (lógica de asignación - IMPLEMENTAR)
 ├── test_scheduler.py  (tests - NO MODIFICAR)
