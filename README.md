@@ -12,7 +12,7 @@ shift_scheduler/
 ├── README.md           (este archivo)
 ├── models.py          (clases base - COMPLETAR)
 ├── scheduler.py       (lógica de asignación - IMPLEMENTAR)
-├── test_scheduler.py  (tests - ESCRIBIR)
+├── test_scheduler.py  (tests - NO MODIFICAR)
 └── examples.py        (datos de ejemplo - NO MODIFICAR)
 ```
 
